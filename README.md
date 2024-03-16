@@ -8,12 +8,6 @@ Antes de executar o código, certifique-se de ter uma instância do Google Colab
 
 ### Pré-requisitos
 
-- Instale o `langdetect` e o `fasttext` executando os seguintes comandos:
-```bash
-!pip install langdetect
-!pip install fasttext
-## Instruções de Uso
-
 1. Faça o download do notebook do Google Colab contendo o código.
 2. Abra o notebook no Google Colab.
 3. Execute as células de código conforme necessário.
